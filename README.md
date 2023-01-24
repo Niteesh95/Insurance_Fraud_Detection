@@ -3,6 +3,7 @@
 In this repo, I have developed an ML classification algorithm to identify and predict insurance fraud/non-fraud claims using the insurance fraud dataset from kaggle, which can be found [here](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data).
 
 Techniques: EDA, Feature Engineering, Outlier detection and removal, scaling, Data Modelling, Model Evaluation.
+
 Tech Stack used: pandas, numpy, python, sklearn, matplotlib, seaborn, etc.
 
 ## EDA
